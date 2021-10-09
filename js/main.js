@@ -83,5 +83,10 @@ function saySomething(){
 //   return total + current;
 //  }, 0);
 //  console.log(total);
-const number = "24";
-console.log(+number + 23);
+// const number = "24";
+// console.log(+number + 23);
+
+let str = "abcde";
+console.log (str[0]);
+console.log(str[1])
+console.log(str[4])
