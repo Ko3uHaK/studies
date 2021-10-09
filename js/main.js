@@ -86,7 +86,22 @@ function saySomething(){
 // const number = "24";
 // console.log(+number + 23);
 
-let str = "abcde";
-console.log (str[0]);
-console.log(str[1])
-console.log(str[4])
+// let str = "abcde";
+// console.log (str[0]);
+// console.log(str[1]);
+// console.log(str[4]);
+//  let num = 123;
+//  alert (num);
+//  let a =10;
+//  alert (a);
+//  a = 20;
+//  alert(a);
+
+let num = 1;
+num += 12;
+num -= 14;
+num *= 5;
+num /= 7;
+num++;
+num--;
+alert(num);
