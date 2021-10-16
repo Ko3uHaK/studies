@@ -186,3 +186,42 @@ function saySomething(){
 //  let y = v.length;
 //  let u = n.length;
 //  console.log(y+u);
+
+// let test = Boolean(3 *);
+// console.log(test);
+
+// let str = "adcde";
+// console.log(str[0], str[2], str[4]);
+// let a = str[4];
+// let b = str[3];
+// let c = str[2];
+// let d = str[1];
+// let e = str[0];
+// console.log(a +b+c+d+e);
+// const num = 3;
+// console.log(str[num]);
+
+// const srt12 ='hdfskhf';
+// let posl = srt12.length-1;
+// let posl1 = srt12[posl];
+// let predposl = srt12.length-2;
+// let predposl1 = srt12[predposl];
+// let predpredposl = srt12.length-3;
+// let predpredposl1 = srt12[predpredposl];
+// console.log(posl1, predposl1, predpredposl1);
+// const str ='12345';
+// console.log(+str[0]+ +str[1]+ +str[2]+ +str[3]+ +str[4]);
+
+// const num = 12345;
+// let str = String(num);
+// let a = str[0];
+// let b = str[1];
+// let c = str[2];
+// let d = str[3];
+// let e = str[4];
+// console.log(+a + +b + +c + +d + +e);
+// console.log(a*b*c*d*e);
+// console.log(e + d +c +b +a);
+
+
+
