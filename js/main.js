@@ -97,11 +97,60 @@ function saySomething(){
 //  a = 20;
 //  alert(a);
 
-let num = 1;
-num += 12;
-num -= 14;
-num *= 5;
-num /= 7;
-num++;
-num--;
-alert(num);
+// let num = 1;
+// num += 12;
+// num -= 14;
+// num *= 5;
+// num /= 7;
+// num++;
+// num--;
+// alert(num);
+
+// const c = 10;
+// const d = 5;
+//  let  a = c +d;
+//  let result = a;
+//  console.log(a);
+
+// const a = 1;
+// const b = 2;
+// const c = 3;
+// let sum = a+b+c;
+// console.log(sum)
+
+// const a =10;
+// const b = 5;
+// let c = a - b ;
+// let d = 7;
+// let result = d + c;
+// console.log(result);
+
+// const a = 1.5;
+// const b = 0.75;
+// console.log(a + b);
+
+
+// let a = 100;
+// console.log(-a);
+//  console.log( 2 ** 10 );
+
+// let str = '!!!';
+// console.log(str);
+// const a = 'hello';
+// const b = 'world';
+// console.log(a +' '+ b);
+
+// const a = 'In eiusmod incididunt sit do sunt veniam aute exercitation ad ea.';
+// console.log(a.length);
+
+// let a = `adsda
+// sdasd
+// fssfd
+// dfsgsdg
+// dgdsgs`;
+// console.log(a);
+
+// 
+const sum = (a, b=1) => a + b;
+console.log(sum(41,4));
+
