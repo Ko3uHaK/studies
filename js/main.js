@@ -163,6 +163,26 @@ function saySomething(){
 // let a = +'2';
 // let b = +'3';
 // console.log(a + b);
- const a = '5px';
- const b = '6px';
- console.log(parseInt(a)+parseInt(b)+"px");
+//  const a = '5px';
+//  const b = '6px';
+//  console.log(parseInt(a)+parseInt(b)+"px");
+
+//  const d = '5.5px';
+//  const c = '6.25px';
+//  console.log(parseFloat(a)+parseFloat(b)+"px");
+
+//  let num1 = 13;
+//  let num2 = 10;
+//  console.log(String(num1)+String(num2));
+
+//  const num3 = 121313;
+//  let q = String(num3);
+//  console.log(q.length);
+
+//  const num4 = 123;
+//  const num5 = 123123;
+//  let v = String(num4);
+//  let n = String(num5);
+//  let y = v.length;
+//  let u = n.length;
+//  console.log(y+u);
