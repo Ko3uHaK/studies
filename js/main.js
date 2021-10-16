@@ -160,6 +160,9 @@ function saySomething(){
 // let a = '10';
 // let b = '20';
 // console.log(+a + +b);
-let a = +'2';
-let b = +'3';
-console.log(a + b);
+// let a = +'2';
+// let b = +'3';
+// console.log(a + b);
+ const a = '5px';
+ const b = '6px';
+ console.log(parseInt(a)+parseInt(b)+"px");
