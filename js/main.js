@@ -151,6 +151,12 @@ function saySomething(){
 // console.log(a);
 
 // 
-const sum = (a, b=1) => a + b;
-console.log(sum(41,4));
+// const sum = (a, b=1) => a + b;
+// console.log(sum(41,4));
+// let a = '5' * '1' + '2' * '1';
+// console.log(a);
+// console.log(typeof(a));
 
+// let a = '10';
+// let b = '20';
+// console.log(+a + +b);
