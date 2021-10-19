@@ -222,6 +222,18 @@ function saySomething(){
 // console.log(+a + +b + +c + +d + +e);
 // console.log(a*b*c*d*e);
 // console.log(e + d +c +b +a);
+// let num = 1;
+// num = num + 2;
+// num = num + 3;
+// console.log(num);
+// let num = 47;
+// num += 7;
+// num -= 18;
+// num *= 10;
+// num /= 15;
+// console.log(num);
 
-
-
+ function sayHello(){
+   console.log("Say hello!");
+ }
+sayHello();
