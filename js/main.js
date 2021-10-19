@@ -140,7 +140,7 @@ function saySomething(){
 // const b = 'world';
 // console.log(a +' '+ b);
 
-// const a = 'In eiusmod incididunt sit do sunt veniam aute exercitation ad ea.';
+// const a = 'In eiusmod incididunt sit do sunt veniam';
 // console.log(a.length);
 
 // let a = `adsda
@@ -254,3 +254,9 @@ function saySomething(){
 //    }
 // };
 // console.log (calculator.plus(10, 7));
+
+const title = document.querySelector(".title");
+function resizeHandler(event){
+  console.log(event);
+}
+window.addEventListener("resize",resizeHandler);
