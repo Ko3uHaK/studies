@@ -233,7 +233,24 @@ function saySomething(){
 // num /= 15;
 // console.log(num);
 
- function sayHello(){
-   console.log("Say hello!");
- }
-sayHello();
+//  function sayHello(name, age , city){
+//    return `Say hello! ${name} 'asdad' ${age}, "sdkqwodkoaskd", ${city}`;
+//  }
+//  const hiAnton = sayHello("Антон","24","Ierusalim");
+//  console.log(hiAnton);
+
+// const calculator = {
+//    plus: function(a,b){
+//      return a + b;
+//    },
+//    minus : function (a ,b){
+//     return a - b;
+//    },
+//    multiply : function(a,b){
+//      return a*b;
+//    },
+//    divide : function(a,b){
+//      return a/b;
+//    }
+// };
+// console.log (calculator.plus(10, 7));
