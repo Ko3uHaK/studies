@@ -255,8 +255,15 @@ function saySomething(){
 // };
 // console.log (calculator.plus(10, 7));
 
-const title = document.querySelector(".title");
-function resizeHandler(event){
-  console.log(event);
-}
-window.addEventListener("resize",resizeHandler);
+// const title = document.querySelector(".title");
+// function resizeHandler(event){
+//   console.log(event);
+// }
+// window.addEventListener("resize",resizeHandler);
+
+let n = 7;
+let k = 30 ;
+const r = (k/n);
+let g = k%n;
+
+console.log(r, g);
