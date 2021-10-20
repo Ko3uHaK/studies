@@ -261,9 +261,12 @@ function saySomething(){
 // }
 // window.addEventListener("resize",resizeHandler);
 
-let n = 7;
-let k = 30 ;
+let n = 5;
+let k = 15;
 const r = (k/n);
 let g = k%n;
+let d = 4;
+let j = n - g;
 
-console.log(r, g);
+console.log(r, g, j );
+
