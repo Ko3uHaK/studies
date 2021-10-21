@@ -261,12 +261,17 @@ function saySomething(){
 // }
 // window.addEventListener("resize",resizeHandler);
 
-let n = 5;
-let k = 15;
-const r = (k/n);
-let g = k%n;
-let d = 4;
-let j = n - g;
+// let n = 5;
+// let k = 15;
+// const r = (k/n);
+// let g = k%n;
+// let j = n - g;
 
-console.log(r, g, j );
+// console.log(r, g, j);
 
+//события
+const title = document.querySelector(".title");
+function clickHandler(){
+  title.style.color= "green";
+}
+title.addEventListener("click",clickHandler); 
