@@ -312,3 +312,19 @@ function saySomething(){
 // arr[2]++
 // console.log(arr)
 //4
+// const arr =[]
+// arr[0] = 1;
+// arr[1] = 2;
+// arr[2] = 3;
+// console.log(arr)
+// const arr = [1, 2, 3]
+// arr[3] =4;
+// arr[4] =5;
+// // console.log(arr)
+// let arr = [];
+
+// arr[3] = 'a';
+// arr[8] = 'b';
+// console.log(arr.length)
+//Объекты
+//1
