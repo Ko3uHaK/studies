@@ -286,8 +286,18 @@ function saySomething(){
 // console.log(mass[0],'+',mass[1],'+',mass[2],'+',mass[3])
 // let mass = [1,2,3]
 // console.log(mass[0]+mass[1]+mass[2])
-const mass = [2,5,3,9]
-const a = mass[0]*mass[1]
-const b = mass[2] * mass[3]
-const result = a + b;
-console.log(result);
+// const mass = [2,5,3,9]
+// const a = mass[0]*mass[1]
+// const b = mass[2] * mass[3]
+// const result = a + b;
+// console.log(result);
+//2
+// const mass = [1,2,3,42,2,'ad',null]
+// console.log(mass.length)
+// console.log(mass[mass.length-1])
+// let arr = ["a",'b',"c"]
+// arr[0] = 1;
+// arr[1]= 2;
+// arr[2] = 3;
+// console.log(arr)
+//3
