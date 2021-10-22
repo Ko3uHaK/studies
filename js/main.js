@@ -270,8 +270,24 @@ function saySomething(){
 // console.log(r, g, j);
 
 //события
-const title = document.querySelector(".title");
-function clickHandler(){
-  title.style.color= "green";
-}
-title.addEventListener("click",clickHandler); 
+// const title = document.querySelector(".title");
+// function clickHandler(){
+//   title.style.color= "green";
+// }
+// title.addEventListener("click",clickHandler); 
+
+//Массивы
+//1
+// let mass = ['a','b','c']
+// console.log(mass[0])
+// console.log(mass[1])
+// console.log(mass[2])
+// let mass = ['a','b','c', 'd']
+// console.log(mass[0],'+',mass[1],'+',mass[2],'+',mass[3])
+// let mass = [1,2,3]
+// console.log(mass[0]+mass[1]+mass[2])
+const mass = [2,5,3,9]
+const a = mass[0]*mass[1]
+const b = mass[2] * mass[3]
+const result = a + b;
+console.log(result);
