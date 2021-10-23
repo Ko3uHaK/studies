@@ -287,7 +287,27 @@ function saySomething(){
 // }else{
 //   alert('Вам нельзя покупать алкоголь!')
 // }
+const h2 = document.querySelector(".h2");
+function clickHandler(){
+  const currentColor = h2.style.color;
+  if(currentColor === a){
+    h2.style.color = b;
+  }else{
+    h2.style.color = a;
+  }
+} 
+const a = 'rgb(85, 102, 85)';
+const b = "#575fcf";
+function init(){
+  h2.style.color = a;
+  h2.addEventListener("mouseenter",clickHandler);
+}
+init();
 
+function offlineHandler(){
+  console.log('goodbye');
+}
+window.addEventListener("offline",offlineHandler);
 
 //Массивы
 //1
