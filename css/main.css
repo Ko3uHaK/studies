@@ -1,6 +1,15 @@
 .title{
     color: #223422;
+    cursor: pointer;
+}
+.btn{
+    cursor: pointer;
 }
 .h2{
-    width: auto;
+    color:#cd84f1; 
+    transition: .5s ease-in-out;
+}
+.clicked{
+    color:#fff200;
+    transition: .5s ease-in-out;
 }
