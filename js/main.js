@@ -275,6 +275,19 @@ function saySomething(){
 //   title.style.color= "green";
 // }
 // title.addEventListener("click",clickHandler); 
+//if, else, and, or
+// if (20 >5 || '12'=== 12){
+//   console.log('yes')
+// }else{
+//   console.log('no')
+// }
+// let a = prompt("Вам есть 18 лет ?");
+// if(a == 'yes'){
+//   alert('Вы можете покупать алкоголь.')
+// }else{
+//   alert('Вам нельзя покупать алкоголь!')
+// }
+
 
 //Массивы
 //1
