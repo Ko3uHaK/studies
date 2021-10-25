@@ -352,3 +352,8 @@ function saySomething(){
 // console.log(arr.length)
 //Объекты
 //1
+let obj = {1: 'value1', 2: 'value2', 3: 'value3'};
+
+console.log(obj[1]); // выведет 'value1'
+console.log(obj[2]); // выведет 'value2'
+console.log(obj[3]); // выведет 'value3'
