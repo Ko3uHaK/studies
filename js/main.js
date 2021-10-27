@@ -371,7 +371,14 @@ function saySomething(){
 // }
 
 // cleanForm();
-let obj = {1:"a", 2: 'b', 3: 'c'};
-console.log(obj[1])
-console.log(obj[2])
-console.log(obj[3])
+// let obj = {1:"a", 2: 'b', 3: 'c'};
+// console.log(obj[1])
+// console.log(obj[2])
+// console.log(obj[3])
+//2
+const obj = {
+  a: 1,
+  b: 2,
+  c: 3,
+};
+console.log(obj["a"] + obj["b"] + obj["c"]);
