@@ -393,9 +393,16 @@ function saySomething(){
 // let obj = {key1: 1, key2: 2, key3: 3};
 // console.log(obj.key1 + obj.key2 + obj.key3);
 //5
-const user ={
-  name : "Pavel",
-  surname : "Grigoriev",
-  patronymic : "Makarov",
-}
-console.log(user.name +' '+  user.surname +" "+ user.patronymic)
+// const user ={
+//   name : "Pavel",
+//   surname : "Grigoriev",
+//   patronymic : "Makarov",
+// }
+// console.log(user.name +' '+  user.surname +" "+ user.patronymic)
+//6
+// const date = {
+//   year: 2021,
+//   month: 10,
+//   day: 27,
+// }
+// console.log(date.day +'-'+ date.month + '-'+ date.year)
