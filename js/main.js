@@ -376,9 +376,20 @@ function saySomething(){
 // console.log(obj[2])
 // console.log(obj[3])
 //2
-const obj = {
-  a: 1,
-  b: 2,
-  c: 3,
-};
-console.log(obj["a"] + obj["b"] + obj["c"]);
+// const obj = {
+//   a: 1,
+//   b: 2,
+//   c: 3,
+// };
+// console.log(obj["a"] + obj["b"] + obj["c"]);
+//3
+// const obj = {
+//   "1a" : 1,
+//   b2 : 2,
+//   "c-c" : 3,
+// }
+// console.log(obj["1a"] + obj["b2"] + obj["c-c"])
+//4
+// let obj = {key1: 1, key2: 2, key3: 3};
+// console.log(obj.key1 + obj.key2 + obj.key3);
+//5
