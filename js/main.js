@@ -414,3 +414,11 @@ function saySomething(){
 // obj['key3'] = 'c';
 
 // console.log(obj); // выведет {key1: 'a', key2: 'b', key3: 'c'}
+//8
+// let obj = {};
+
+// obj.key1 = 'a';
+// obj.key2 = 'b';
+// obj.key3 = 'c';
+
+// console.log(obj); // выведет {key1: 'a', key2: 'b', key3: 'c'}
