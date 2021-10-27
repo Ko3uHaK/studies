@@ -406,3 +406,11 @@ function saySomething(){
 //   day: 27,
 // }
 // console.log(date.day +'-'+ date.month + '-'+ date.year)
+//7
+// let obj = {};
+
+// obj['key1'] = 'a';
+// obj['key2'] = 'b';
+// obj['key3'] = 'c';
+
+// console.log(obj); // выведет {key1: 'a', key2: 'b', key3: 'c'}
