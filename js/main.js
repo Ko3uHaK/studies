@@ -352,22 +352,26 @@ function saySomething(){
 // console.log(arr.length)
 //Объекты
 //1
-let obj = {1: 'value1', 2: 'value2', 3: 'value3'};
+// let obj = {1: 'value1', 2: 'value2', 3: 'value3'};
 
-console.log(obj[1]); // выведет 'value1'
-console.log(obj[2]); // выведет 'value2'
-console.log(obj[3]); // выведет 'value3'
-function textareaCurLineNum(obj)
-{
- var rowHeight = obj.clientHeight/obj.rows;
- var curHeight = obj.createTextRange().boundingHeight;
+// console.log(obj[1]); // выведет 'value1'
+// console.log(obj[2]); // выведет 'value2'
+// console.log(obj[3]); // выведет 'value3'
+// function textareaCurLineNum(obj)
+// {
+//  var rowHeight = obj.clientHeight/obj.rows;
+//  var curHeight = obj.createTextRange().boundingHeight;
 
- return parseInt(curHeight/rowHeight)+(obj.value!=''?1:0);
-}
+//  return parseInt(curHeight/rowHeight)+(obj.value!=''?1:0);
+// }
 
-function cleanForm() {
-	document.getElementById('cs').value = textareaCurLineNum(document.getElementById('ta'));
-	setTimeout("cleanForm();", 500);
-}
+// function cleanForm() {
+// 	document.getElementById('cs').value = textareaCurLineNum(document.getElementById('ta'));
+// 	setTimeout("cleanForm();", 500);
+// }
 
-cleanForm();
+// cleanForm();
+let obj = {1:"a", 2: 'b', 3: 'c'};
+console.log(obj[1])
+console.log(obj[2])
+console.log(obj[3])
