@@ -432,3 +432,7 @@ function saySomething(){
 // let key1 =1;
 // let key2 = 2;
 // console.log(arr[key1]+arr[key2]);
+//3
+// let obj = {"a":1,"b":2,"c":3}
+// let key = "a";
+// console.log(obj[key])
