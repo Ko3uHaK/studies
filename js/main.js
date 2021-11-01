@@ -422,3 +422,8 @@ function saySomething(){
 // obj.key3 = 'c';
 
 // console.log(obj); // выведет {key1: 'a', key2: 'b', key3: 'c'}
+//ключи
+// //1
+// let arr = ['a','b','c']
+// let key = 2;
+// console.log(arr[key]);
