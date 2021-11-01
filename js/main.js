@@ -436,3 +436,8 @@ function saySomething(){
 // let obj = {"a":1,"b":2,"c":3}
 // let key = "a";
 // console.log(obj[key])
+//4
+let obj = {key: '!!!'};
+let key = 'key';
+
+console.log(obj[key]); // выведет '!!!'
