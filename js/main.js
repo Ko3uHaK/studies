@@ -437,7 +437,14 @@ function saySomething(){
 // let key = "a";
 // console.log(obj[key])
 //4
-let obj = {key: '!!!'};
-let key = 'key';
+// let obj = {key: '!!!'};
+// let key = 'key';
 
-console.log(obj[key]); // выведет '!!!'
+// console.log(obj[key]); // выведет '!!!'
+//передача объектов
+//1
+let arr1 = [1, 2, 3];
+let arr2 = arr1;
+
+arr1[0] = 'a';
+console.log(arr2);
