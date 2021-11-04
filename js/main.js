@@ -457,10 +457,15 @@ function saySomething(){
 
 // console.log(arr1);
 //3
-let arr1 = [1, 2, 3];
-let arr2 = arr1;
+// let arr1 = [1, 2, 3];
+// let arr2 = arr1;
 
-arr1[0] = 'a';
-arr2[0] = 'b';
+// arr1[0] = 'a';
+// arr2[0] = 'b';
 
-console.log(arr2);
+// console.log(arr2);
+//оператор in
+//1
+// let obj = {a: 1, b: 2, c: 3, d: 4, e: 5};
+// console.log('e' in obj);
+// console.log('f' in obj);
