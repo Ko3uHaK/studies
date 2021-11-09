@@ -489,3 +489,7 @@ function saySomething(){
 // const arr = ['a', 'b', 'c'];
 // arr = [1, 2, 3];
 // console.log(arr);
+//3
+// const arr = ['a', 'b', 'c'];
+// arr = ['a', 'b', 'c'];
+// console.log(arr);
