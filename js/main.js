@@ -482,6 +482,10 @@ function saySomething(){
 // console.log(arr.length)
 //константы
 //1
-const arr = ['a', 'b', 'c'];
-arr[1] = '!';
-console.log(arr);
+// const arr = ['a', 'b', 'c'];
+// arr[1] = '!';
+// console.log(arr);
+//2
+// const arr = ['a', 'b', 'c'];
+// arr = [1, 2, 3];
+// console.log(arr);
