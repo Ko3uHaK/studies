@@ -475,8 +475,13 @@ function saySomething(){
 // delete obj.e;
 // console.log('e' in obj);
 //2
-let arr = ['a', 'b', 'c', 'd', 'e'];
-delete arr[2]
-delete arr[3]
-console.log('c' in arr)
-console.log(arr.length)
+// let arr = ['a', 'b', 'c', 'd', 'e'];
+// delete arr[2]
+// delete arr[3]
+// console.log('c' in arr)
+// console.log(arr.length)
+//константы
+//1
+const arr = ['a', 'b', 'c'];
+arr[1] = '!';
+console.log(arr);
