@@ -494,7 +494,22 @@ function saySomething(){
 // arr = ['a', 'b', 'c'];
 // console.log(arr);
 //4
-const arr = [1, 2, 3, 4, 5];
-const res = arr[1] + arr[2];
+// const arr = [1, 2, 3, 4, 5];
+// const res = arr[1] + arr[2];
 
-console.log(res);
+// console.log(res);
+// if-else
+//1
+// const test = 17;
+// if(test > 10){
+//   console.log('yes');
+// }else{
+//   console.log('no');
+// }
+//2
+const test = 13;
+if(test <10){
+  console.log('yes');
+}else{
+  console.log('no');
+}
