@@ -514,8 +514,14 @@ function saySomething(){
 //   console.log('no');
 // }
 //3
+// const test = 13;
+// if(test >= 10){
+//   console.log('yes');
+// }else{
+//   console.log('no');
+// }
 const test = 13;
-if(test >= 10){
+if(test <=10){
   console.log('yes');
 }else{
   console.log('no');
