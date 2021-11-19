@@ -557,3 +557,11 @@ function saySomething(){
 // }else{
 //   console.log('false');
 // }
+//9
+// const num1 =10,
+// num2 =2;
+// if (!(num1 >= 0 || num2 <= 10)) {
+// 	console.log('верно');
+// } else {
+// 	console.log('неверно');
+// }
