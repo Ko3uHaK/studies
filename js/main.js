@@ -534,9 +534,16 @@ function saySomething(){
 // } else {
 // 	console.log('неверно');
 // }
-//5
+//6
 // let  num = 3;
 // if(num >0 && num<5){
+//   console.log("true");
+// }else{
+//   console.log('false');
+// }
+//7
+// let  num = 3;
+// if(num >=10 && num <=20){
 //   console.log("true");
 // }else{
 //   console.log('false');
