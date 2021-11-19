@@ -548,3 +548,12 @@ function saySomething(){
 // }else{
 //   console.log('false');
 // }
+//8
+// let  num1 = 3,
+// num2 = 4;
+
+// if(num1 <=1 && num2>=3){
+//   console.log("true");
+// }else{
+//   console.log('false');
+// }
