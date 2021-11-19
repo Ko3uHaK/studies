@@ -520,9 +520,17 @@ function saySomething(){
 // }else{
 //   console.log('no');
 // }
-const test = 13;
-if(test <=10){
-  console.log('yes');
-}else{
-  console.log('no');
-}
+// const test = 13;
+// if(test <=10){
+//   console.log('yes');
+// }else{
+//   console.log('no');
+// }
+// let test1 = 3;
+// let test2 = 2;
+		
+// if (test1 !== test2) {
+// 	console.log('верно');
+// } else {
+// 	console.log('неверно');
+// }
