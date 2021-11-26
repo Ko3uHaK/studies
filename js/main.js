@@ -565,3 +565,7 @@ function saySomething(){
 // } else {
 // 	console.log('неверно');
 // }
+let string = "123";
+let arr = string.split("");
+let sum = arr.reduce((previousValue, currentValue) => +previousValue + +currentValue);
+console.log(sum)
