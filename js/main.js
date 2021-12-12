@@ -565,7 +565,12 @@ function saySomething(){
 // } else {
 // 	console.log('неверно');
 // }
-let string = "123";
-let arr = string.split("");
-let sum = arr.reduce((previousValue, currentValue) => +previousValue + +currentValue);
-console.log(sum)
+// let string = "123";
+// let arr = string.split("");
+// let sum = arr.reduce((previousValue, currentValue) => +previousValue + +currentValue);
+// console.log(sum)
+//Largest Square Inside A Circle
+function areaLargestSquare(r) {
+  return 2*r**2;
+}
+
