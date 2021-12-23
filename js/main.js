@@ -640,3 +640,15 @@ function saySomething(){
 //     }
 // }
 //  console.log(res)
+
+//Double Every Other
+function doubleEveryOther(a) {
+  var modified = new Array();
+  for (var i = 0; i < a.length; i++) {
+      if (i % 2 == 0)
+          modified.push(a[i]);
+      else
+          modified.push(a[i] * 2);
+  }
+  return modified;
+}
