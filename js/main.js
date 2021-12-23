@@ -570,7 +570,73 @@ function saySomething(){
 // let sum = arr.reduce((previousValue, currentValue) => +previousValue + +currentValue);
 // console.log(sum)
 //Largest Square Inside A Circle
-function areaLargestSquare(r) {
-  return 2*r**2;
-}
+// function areaLargestSquare(r) {
+//   return 2*r**2;
+// }
+// let N = 3,
+//     s = 0;
+// let arr;
+// let a11, a12, a13,
+//     a21, a22, a23,
+//     a31, a32, a33;
+// for ( let i = 0; i <= 9; i++ ){
+//  a11 = i;
+//  for ( let j = 0; j <= 9; j++ ){
+//   a12 = j;
+//   a13 = N - a11 - a12;
+//   if( (a13 >= 0) && (a13 <= 9) ){
+//    col_1();
+//   }
+//  }
+// }
+// function col_1(){
+//  for( let i = 0; i <= 9; i++ ){
+//   a21 = i;
+//   a31 = N - a21 - a11;
+//   if( (a31 >= 0) && (a31 <= 9) ){
+//    row_2();
+//   }
+//  }
+// }
+// function row_2(){
+//  for( let i = 0; i <= 9; i++ ){
+//   a22 = i;
+//   a23 = N - a22 - a21;
+//   if( (a23 >= 0) && (a23 <= 9) ){
+//    col_2_create();
+//   }
+//  }
+// } 
+// function col_2(){
+//  a32 = N - a22 - a12;
+//  if( (a32 >= 0) && (a32 <= 9) ){
+//   row_3_create();
+//  }
+// }
+// function row_3(){
+//  a33 = N - a32 - a31;
+//  if( (a33 >= 0) && (a33 <= 9) ){
+//   if( (a13 + a23 + a33) == N ){
+//    s++;
+//   }
+//  }
+// }
+// console.log( s );
+// let glasses = [29, 27, 2, 3, 4, 5, 6, 7, 8, 9];
 
+// function arraySum(arrey){
+//   var sum = 0;
+//   for(var i = 0; i < arrey.length; i++){
+//       sum += arrey[i];
+//       }
+//  return sum;
+//   }
+//   let k = arraySum(glasses);
+//   let average = k/glasses.length;
+//   let res = 0;
+//   for (let i = 0; i < glasses.length; ++i) {
+//     if (glasses[i] > average) {
+//         res++;
+//     }
+// }
+//  console.log(res)
